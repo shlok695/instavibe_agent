@@ -79,31 +79,6 @@ cd instavibe-bootstrap
 - Orchestrating multiple services on Cloud Run
 - Integrating external APIs (Maps) into agent pipelines
 
-## Screenshots
-
-![instavibe_ui_home.png](/mnt/data/instavibe_ui_home.png)
-
-![agent_comm_log.png](/mnt/data/agent_comm_log.png)
-
-![deployment_success.png](/mnt/data/deployment_success.png)
-
-
-
-
-## Screenshots
-
-### 1. Planner Agent Evaluation Results
-![Planner Agent Evaluation](./Screenshot 2025-06-06 121312.png)
-
-### 2. Event Page - Mexico City Culinary & Art Day
-![Mexico City Event](./Screenshot 2025-06-06 122138.png)
-
-### 3. Event Page - Vienna Classical Experience
-![Vienna Event](./Screenshot 2025-06-06 124141.png)
-
-### 4. Instavibe Posting Agent JSON (Cloud Shell)
-![Cloud Shell Agent Definition](./Screenshot 2025-06-06 123310.png)
-
 ## License
 
 This project is based on Google’s Codelab and is open for educational use.
